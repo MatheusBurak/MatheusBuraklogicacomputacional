@@ -1,10 +1,11 @@
 programa {
-  funcao inicio() {
-   real f =  1.8
-   real celsius, fahrennelt
-   escreva("escreva em celsius /n")
-   leia (celsius)
-   fahrennelt = (celsius * 1) * 32
-   escreva ("em fahrennelt:", fahrennelt)
-  }
-}
+    funcao inicio() {
+        inteiro numero
+     escreva("Digite um número inteiro: ")
+     escreva("Digite um número inteiro: ")
+          leia(numero)
+         inteiro dobro = numero * 2
+ escreva("O dobro do número é: ", dobro)
+ escreva("O dobro do número é: ", dobro)
+    }
+ }
